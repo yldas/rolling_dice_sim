@@ -1,0 +1,1 @@
+Data visualizations for the rolling of dice using Pygal. Adapted from the book "Python Crash Course" by Eric Matthes.
